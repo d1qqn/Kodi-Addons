@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+
+<addon id="plugin.video.blackhattv"
+
+       name="BlackHat-TV"
+
+       version="0.0.1"
+
+       provider-name="d1qqn">
+
+  <requires>
+
+   <import addon="xbmc.python" version="2.1.0"/>
+
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+
+        <provides>video</provides>
+
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+
+    <summary lang="de">BlackHat Addon</summary>
+
+    <description lang="de">:)</description>
+
+    <source>https://github.com/d1qqn/Kodi-Addons/tree/main/plugin.video.blackhattv/</source>
+
+    <platform>all</platform>
+
+ <language>de</language>
+
+  </extension>
+
+</addon>
+
+
+<addon id="plugin.video.brtvofficial"
+
+       name="Boiler Room"
+
+       version="0.0.1"
+
+       provider-name="d1qqn">
+
+  <requires>
+
+   <import addon="xbmc.python" version="2.1.0"/>
+
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+
+        <provides>video</provides>
+
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+
+    <summary lang="de">Boiler Room Addon</summary>
+
+    <description lang="de">:)</description>
+
+    <source>https://github.com/d1qqn/Kodi-Addons/tree/main/plugin.video.brtvofficial/</source>
+
+    <platform>all</platform>
+
+ <language>de</language>
+
+  </extension>
+
+</addon>
+
+
+<addon id="plugin.video.cubbo"
+
+       name="CUBBO"
+
+       version="0.0.1"
+
+       provider-name="d1qqn">
+
+  <requires>
+
+   <import addon="xbmc.python" version="2.1.0"/>
+
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+
+        <provides>video</provides>
+
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+
+    <summary lang="de">CUBBO Addon</summary>
+
+    <description lang="de">HARDTECHNO!!! :)</description>
+
+    <source>https://github.com/d1qqn/Kodi-Addons/tree/main/plugin.video.cubbo/</source>
+
+    <platform>all</platform>
+
+ <language>de</language>
+
+  </extension>
+
+</addon>
+
+
+<addon id="plugin.video.defconconf"
+
+       name="DEFCON-Conference"
+
+       version="0.0.1"
+
+       provider-name="d1qqn">
+
+  <requires>
+
+   <import addon="xbmc.python" version="2.1.0"/>
+
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+
+        <provides>video</provides>
+
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+
+    <summary lang="de">DEFCON Addon</summary>
+
+    <description lang="de">:)</description>
+
+    <source>https://github.com/d1qqn/Kodi-Addons/tree/main/plugin.video.defconconf/</source>
+
+    <platform>all</platform>
+
+ <language>de</language>
+
+  </extension>
+
+</addon>
+
+
+<addon id="plugin.video.FRA909"
+
+       name="FRA909"
+
+       version="0.0.1"
+
+       provider-name="d1qqn">
+
+  <requires>
+
+   <import addon="xbmc.python" version="2.1.0"/>
+
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+
+        <provides>video</provides>
+
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+
+    <summary lang="de">FRA909 Addon</summary>
+
+    <description lang="de">:)</description>
+
+    <source>https://github.com/d1qqn/Kodi-Addons/tree/main/plugin.video.FRA909/</source>
+
+    <platform>all</platform>
+
+ <language>de</language>
+
+  </extension>
+
+</addon>
+
+
+<addon id="plugin.video.Hak5"
+
+       name="Hak5"
+
+       version="0.0.1"
+
+       provider-name="d1qqn">
+
+  <requires>
+
+   <import addon="xbmc.python" version="2.1.0"/>
+
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+
+        <provides>video</provides>
+
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+
+    <summary lang="de">Hak5 Addon</summary>
+
+    <description lang="de">:)</description>
+
+    <source>https://github.com/d1qqn/Kodi-Addons/tree/main/plugin.video.Hak5/</source>
+
+    <platform>all</platform>
+
+ <language>de</language>
+
+  </extension>
+
+</addon>
+
+
+<addon id="plugin.video.Kliemannsland"
+
+       name="Kliemannsland"
+
+       version="0.0.1"
+
+       provider-name="d1qqn">
+
+  <requires>
+
+   <import addon="xbmc.python" version="2.1.0"/>
+
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+
+        <provides>video</provides>
+
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+
+    <summary lang="de">Kliemannsland Addon</summary>
+
+    <description lang="de">:)</description>
+
+    <source>https://github.com/d1qqn/Kodi-Addons/tree/main/plugin.video.Kliemannsland/</source>
+
+    <platform>all</platform>
+
+ <language>de</language>
+
+  </extension>
+
+</addon>
+
+
+<addon id="plugin.video.the29nov"
+
+       name="the29nov"
+
+       version="0.0.1"
+
+       provider-name="d1qqn">
+
+  <requires>
+
+   <import addon="xbmc.python" version="2.1.0"/>
+
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+
+        <provides>video</provides>
+
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+
+    <summary lang="de">the29nov Addon</summary>
+
+    <description lang="de">:)</description>
+
+    <source>https://github.com/d1qqn/Kodi-Addons/tree/main/plugin.video.the29nov/</source>
+
+    <platform>all</platform>
+
+ <language>de</language>
+
+  </extension>
+
+</addon>
+
+
+<addon id="plugin.video.ukf"
+
+       name="UKF"
+
+       version="0.0.1"
+
+       provider-name="d1qqn">
+
+  <requires>
+
+   <import addon="xbmc.python" version="2.1.0"/>
+
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+
+        <provides>video</provides>
+
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+
+    <summary lang="de">UKF Addon</summary>
+
+    <description lang="de">:)</description>
+
+    <source>https://github.com/d1qqn/Kodi-Addons/tree/main/plugin.video.ukf/</source>
+
+    <platform>all</platform>
+
+ <language>de</language>
+
+  </extension>
+
+</addon>
+</addons>
